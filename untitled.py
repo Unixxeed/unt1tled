@@ -60,7 +60,7 @@ if account_verification == "yes":
     elif wich_one == "5":
       def sosmed():
         print("\t=============================")
-        print("\t\t >youtube: @FlashCodmyt ")
+        print("\t\t >youtube: @Nixxeed ")
         print("\t\t >github : @FlashId ")
         print("\t=============================\n")
         account_visit = input("\tDo you want to visit?.(y/n)")
@@ -71,7 +71,7 @@ if account_verification == "yes":
           os.system("clear")
           def continue__():
             print("\t=============================")
-            print("\t\t1.>youtube: @FlashCodmyt ")
+            print("\t\t1.>youtube: @Nixxeed ")
             print("\t\t2.>github : @FlashId ")
             print("\t=============================")
             print("\n")
