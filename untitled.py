@@ -61,7 +61,7 @@ if account_verification == "yes":
       def sosmed():
         print("\t=============================")
         print("\t\t >youtube: @Nixxeed ")
-        print("\t\t >github : @FlashId ")
+        print("\t\t >github : @Unixxeed ")
         print("\t=============================\n")
         account_visit = input("\tDo you want to visit?.(y/n)")
         if account_visit == "n":
